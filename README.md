@@ -12,8 +12,8 @@ To Run the App:
 3) Run the App 
   ->npm start OR expo client
   
-4) After some time a QR Code will be displayed on the CLI (BE PATIENT), Scan that QR on Phone's Camera App
+4) After some time a QR Code will be displayed on the CLI (Be patient), Scan that QR on Phone's Camera App
 
 5) It will redirect to an app named 'EXPO', If you dont have it then download it from Appstore or Playstore.
 
------  AND YOU'RE DONE, Thanks. -----
+
